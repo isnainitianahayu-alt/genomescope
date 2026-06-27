@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ## Cara Menjalankan
 
 1. Clone repository ini atau download file project.
-2. Buka file notebook `GenomeScope.ipynb` menggunakan Google Colab atau Jupyter Notebook.
+2. Buka file notebook `MiniProject_GC_Content_Analysis.ipynb` menggunakan Google Colab atau Jupyter Notebook.
 3. Jalankan setiap cell secara berurutan.
 4. Hasil analisis akan ditampilkan dalam bentuk tabel, grafik, dan file CSV.
 
